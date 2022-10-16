@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-24T23:39:28 EDT" name="Default suite" finished-at="2022-09-24T23:39:38 EDT" duration-ms="10127">
+    <groups>
+    </groups>
+    <test started-at="2022-09-24T23:39:28 EDT" name="Default test" finished-at="2022-09-24T23:39:38 EDT" duration-ms="10127">
+      <class name="bbq.TakeOutOrder">
+        <test-method signature="hometpage()[pri:1, instance:bbq.TakeOutOrder@625732]" started-at="2022-09-24T23:39:28 EDT" name="hometpage" finished-at="2022-09-24T23:39:32 EDT" duration-ms="3940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hometpage -->
+        <test-method signature="ClickLocation()[pri:2, instance:bbq.TakeOutOrder@625732]" started-at="2022-09-24T23:39:32 EDT" name="ClickLocation" finished-at="2022-09-24T23:39:32 EDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickLocation -->
+        <test-method signature="ClickNostrand()[pri:3, instance:bbq.TakeOutOrder@625732]" started-at="2022-09-24T23:39:32 EDT" name="ClickNostrand" finished-at="2022-09-24T23:39:33 EDT" duration-ms="939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickNostrand -->
+        <test-method signature="ScrollDownToTakeOutNostrandAve()[pri:4, instance:bbq.TakeOutOrder@625732]" started-at="2022-09-24T23:39:33 EDT" name="ScrollDownToTakeOutNostrandAve" finished-at="2022-09-24T23:39:33 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollDownToTakeOutNostrandAve -->
+        <test-method signature="ClickTakeOutNostrandAve()[pri:5, instance:bbq.TakeOutOrder@625732]" started-at="2022-09-24T23:39:33 EDT" name="ClickTakeOutNostrandAve" finished-at="2022-09-24T23:39:33 EDT" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickTakeOutNostrandAve -->
+        <test-method signature="printdeline()[pri:6, instance:bbq.TakeOutOrder@625732]" started-at="2022-09-24T23:39:33 EDT" name="printdeline" finished-at="2022-09-24T23:39:38 EDT" duration-ms="5051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printdeline -->
+        <test-method signature="clickdecline()[pri:7, instance:bbq.TakeOutOrder@625732]" started-at="2022-09-24T23:39:38 EDT" name="clickdecline" finished-at="2022-09-24T23:39:38 EDT" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickdecline -->
+      </class> <!-- bbq.TakeOutOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
